@@ -1,0 +1,237 @@
+
+[Minggu, 04 - November - 2018 | 10:09:02] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 11:54:05] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 13:15:24] TalkException(parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, code=10, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Minggu, 04 - November - 2018 | 13:22:27] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:04:35] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 17:46:53] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 18:15:01] 'NoneType' object does not support item assignment
+[Minggu, 04 - November - 2018 | 19:00:42] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 19:29:56] 'in <string>' requires string as left operand, not list
+[Minggu, 04 - November - 2018 | 21:01:33] Invalid mids
+[Minggu, 04 - November - 2018 | 21:39:21] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 09:23:51] local variable 'hasil' referenced before assignment
+[Senin, 05 - November - 2018 | 09:27:54] TalkException(code=10, parameterMap={'2': 'cb754698f7c0605f788b3a99067963728'}, reason='You are not related to group: cb754698f7c0605f788b3a99067963728')
+[Senin, 05 - November - 2018 | 09:27:54] 'in <string>' requires string as left operand, not list
+[Senin, 05 - November - 2018 | 10:19:02] Download file failure.
+[Senin, 05 - November - 2018 | 10:43:15] 'NoneType' object does not support item assignment
+[Senin, 05 - November - 2018 | 11:46:56] Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+[Senin, 05 - November - 2018 | 17:09:45] local variable 'url' referenced before assignment
+[Senin, 05 - November - 2018 | 20:05:58] HTTPSConnectionPool(host='api.eater.tech', port=443): Max retries exceeded with url: /wallp/hinata (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7efdd1e86668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+[Senin, 05 - November - 2018 | 20:40:55] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:19] Download object failure.
+[Senin, 05 - November - 2018 | 21:04:53] Download object failure.
+[Senin, 05 - November - 2018 | 22:29:40] HTTPSConnectionPool(host='noxtapi.inth.red', port=443): Max retries exceeded with url: /bounzen (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f672c787358>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+[Senin, 05 - November - 2018 | 23:28:42] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:37:54] 'list' object has no attribute 'startswith'
+[Senin, 05 - November - 2018 | 23:39:24] Download object failure.
+[Selasa, 06 - November - 2018 | 00:19:53] local variable 'contact' referenced before assignment
+[Selasa, 06 - November - 2018 | 00:30:06] 'list' object has no attribute 'startswith'
+[Kamis, 06 - 12 - 2018 | 20:59:37] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 20:59:37] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 20:59:49] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 20:59:49] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 20:59:49] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:14] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:23] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:33] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:33] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:54] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:00:54] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:01:08] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:01:43] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:01:56] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:02:00] name 'kimak' is not defined
+[Kamis, 06 - 12 - 2018 | 21:03:03] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:03:43] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:03:44] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:04:25] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:04:43] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:04:44] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:04:44] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:05:14] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:05:14] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:05:59] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:00] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:26] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:26] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:34] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:34] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:43] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:43] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:52] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:06:52] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:07:12] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:07:12] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:07:39] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:07:46] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:07:56] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:08:01] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:08:06] name 'contacts' is not defined
+[Kamis, 06 - 12 - 2018 | 21:25:03] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[Kamis, 06 - 12 - 2018 | 21:25:27] list index out of range
+[Jumat, 07 - 12 - 2018 | 15:44:06] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:44:16] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:44:26] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:44:36] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:44:46] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:44:56] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:06] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:16] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:26] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:36] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:46] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:45:56] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:46:06] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:46:16] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:46:26] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:46:36] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[Jumat, 07 - 12 - 2018 | 15:46:46] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] '<=' not supported between instances of 'int' and 'str'
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
+[<module 'time' (built-in)>] name 'client' is not defined
